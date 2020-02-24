@@ -1,0 +1,27 @@
+_repo: The-Colored-Man-in-the-Methodist-Episcopal-Church_61417
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hagood, L. M. (Lewis Marshall)
+    alias: Hagood, Lewis Marshall
+    birthdate: 1853
+    deathdate: 1936
+    gutenberg_agent_id: '51416'
+    url: http://www.gutenberg.org/2009/agents/51416
+description: ''
+gutenberg_issued: '2020-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61417'
+  lccn: '42001798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Methodist Episcopal Church'
+- !lcc 'BX'
+- !lcsh 'African American Methodists'
+- GITenberg
+title: The Colored Man in the Methodist Episcopal Church
+url: http://www.gutenberg.org/ebooks/61417
