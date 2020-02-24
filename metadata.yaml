@@ -1,5 +1,8 @@
 _repo: The-Colored-Man-in-the-Methodist-Episcopal-Church_61417
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61417-h/images/cover.jpg
 creator:
   author:
     agent_name: Hagood, L. M. (Lewis Marshall)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51416'
     url: http://www.gutenberg.org/2009/agents/51416
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61417#The-Colored-Man-in-the-Methodist-Episcopal-Church
 gutenberg_issued: '2020-02-15'
 gutenberg_type: Text
 identifiers:
